@@ -6,11 +6,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-# import plotly.express as px
-# import plotly.graph_objects as go
-# from sklearn.cluster import KMeans, DBSCAN
-# from sklearn.preprocessing import StandardScaler
-# from sklearn.ensemble import RandomForestClassifier
+import plotly.express as px
+import plotly.graph_objects as go
+from sklearn.cluster import KMeans, DBSCAN
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
 import folium
 from streamlit_folium import folium_static
 from io import BytesIO
