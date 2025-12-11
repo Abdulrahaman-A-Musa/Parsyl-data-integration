@@ -1,0 +1,15 @@
+# ================================
+# DRC Facility-Device Mapping Dashboard
+# Required Python Packages (repo root - used by most hosts)
+# ================================
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+folium>=0.14.0
+streamlit-folium>=0.15.0
+openpyxl>=3.1.0
+requests>=2.31.0
+openpyxl>=3.1.2
+# Pin plotly to a known working series
+plotly>=6.5.0
